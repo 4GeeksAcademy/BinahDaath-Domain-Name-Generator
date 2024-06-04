@@ -14,7 +14,7 @@ window.onload = function() {
   for (const p in pronouns) {
     for (const a in adjs) {
       for (const n in nouns) {
-        domains.push(pronouns[p] + adjs[a] + nouns[n] + ".com");
+        domains.push("<h6>" + pronouns[p] + adjs[a] + nouns[n] + ".com");
       }
     }
   }
