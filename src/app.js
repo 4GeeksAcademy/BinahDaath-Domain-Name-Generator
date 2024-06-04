@@ -11,5 +11,6 @@ window.onload = function() {
   const adjs = ["great", "big"];
   const nouns = ["jogger", "racoon"];
   const domains = [];
+
   console.log("Hello Rigo from the console!");
 };
